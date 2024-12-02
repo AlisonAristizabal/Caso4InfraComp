@@ -1,3 +1,4 @@
+MarcaTiempo,TiempoRespuesta,TipoSolicitud,CodigoHTTP,MensajeRespuesta,CasoPrueba,TipoContenido,Exito,Bytes,Hilos,Muestras,Latencia
 1733109120909,222,HTTP Request,200,OK,Caso4 1-54,text,true,521,133,133,222
 1733109120887,540,HTTP Request,200,OK,Caso4 1-84,text,true,507,175,175,540
 1733109120890,1039,HTTP Request,200,OK,Caso4 1-99,text,true,507,247,247,1039
